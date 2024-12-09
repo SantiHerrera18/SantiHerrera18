@@ -11,10 +11,9 @@ Me dedico al desarrolo full stack con pasión por crear soluciones efectivas, cr
 - **DevOps:** GitHub Actions, Vercel
 
 ### 📌 Proyectos Recientes
-- **Bytezone (https://github.com/usuario/proyecto-awesome):** Un proyecto de ejemplo en Node.js y React que permite a los usuarios...
-- **[App Móvil](https://github.com/usuario/app-movil):** Aplicación móvil creada en React Native para gestionar tareas.
+- **Hotelify (https://github.com/usuario/proyecto-awesome):** Plataforma completa enfocada en el sector turístico, se pueden encontrar diferentes hoteles, ver sus detalles, hacer una reserva, realizar un pago, crear una cuenta, registrar un nuevo hotel, personalizar el perfil del usuario, cancelar reservas, todo esto acompañado de una gran experiencia de usuario.
+- **Bytezone (https://github.com/usuario/proyecto-awesome):** Una app e-commerce para el sector tecnológico, en donde se pueden explorar los diferentes productos, hacer ordenes de compra y visualizarlas en el perfil del usuario, todo enfocado en una SPA (Single Page Application)
 
 ### 📫 Contáctame
-- LinkedIn: [Tu LinkedIn](https://linkedin.com/in/tuusuario)
-- Twitter: [@TuUsuario](https://twitter.com/tuusuario)
-- Correo: tuemail@gmail.com
+- LinkedIn: [Linkedin](www.linkedin.com/in/santiago-herrera-139811308)
+- Correo: santi.herrera318@gmail.com
